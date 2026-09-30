@@ -13,3 +13,28 @@ Replace the example below with your own.
 5  If its number is bigger than "largest so far", remember it as "largest so far"
 6  Go back to line 3
 7  Announce "largest so far"
+
+
+The answer for option B
+1-Go to the kitchen.
+2-Look for the jar named "Tea"
+3-If you can not find it , announce: THE MATERILAS FOR THE TEA COULDNT BEEN FOUND.TRY AGAIN LATER" and stop there.
+4-Take it and put it on the table.
+5-Go near the drawer and open it.
+6-Take a spoon and put it near the jar.
+7-Go and find the kettle.
+8-Get the kettle and go near to the water tap.
+9-Turn the water tap and fill the kettle with water. 
+10-When it reaches 500mL , turn the tap off and take the kettle with you. 
+11-Put it on the stove.
+12-Light up the stove.
+13-Wait until the water boils.
+14-When the water boils , go near to the jar and spoon.
+15-Take them with you and put it somewhere near the stove.
+16-Open the jar and take 2 full spoons of tea.
+17-Open the lid of the kettle and pour the tea.
+18-Close the kettles lid and turn off the stove.
+19-Close the tea jar and set a timer for 8 minutes.
+20-Loop the music 'Shape Of My Heart' until the timer ends.
+21-When the timer runs out stop playing music.
+22-Announce "The tea is ready.Bon appetit."
