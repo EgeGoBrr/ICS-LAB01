@@ -23,4 +23,4 @@ q6 = 2
 
 # 7. Binary search on a sorted list of 1 000 000 000 (one billion) items: about how many
 #    steps in the worst case? (A whole number; the lecture table has it.)
-q7 = 1000000000
+q7 30
