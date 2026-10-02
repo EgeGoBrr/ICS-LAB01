@@ -19,7 +19,8 @@ q5 = 72 = H in ASCII
     105 = i in ASCII     Hi
 
 # 6. How many different values can one byte hold?
-q6 = 2
+q6 = One bite = 8 bits
+    2 power 8 = 256
 
 # 7. Binary search on a sorted list of 1 000 000 000 (one billion) items: about how many
 #    steps in the worst case? (A whole number; the lecture table has it.)
